@@ -1,0 +1,10 @@
+C:\Users\user\Downloads\TelefonkonyvWinforms\TelefonkonyvWinforms\bin\Debug\TelefonkonyvWinforms.exe.config
+C:\Users\user\Downloads\TelefonkonyvWinforms\TelefonkonyvWinforms\bin\Debug\TelefonkonyvWinforms.exe
+C:\Users\user\Downloads\TelefonkonyvWinforms\TelefonkonyvWinforms\bin\Debug\TelefonkonyvWinforms.pdb
+C:\Users\user\Downloads\TelefonkonyvWinforms\TelefonkonyvWinforms\obj\Debug\TelefonkonyvWinforms.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\TelefonkonyvWinforms\TelefonkonyvWinforms\obj\Debug\TelefonkonyvWinforms.Form1.resources
+C:\Users\user\Downloads\TelefonkonyvWinforms\TelefonkonyvWinforms\obj\Debug\TelefonkonyvWinforms.Properties.Resources.resources
+C:\Users\user\Downloads\TelefonkonyvWinforms\TelefonkonyvWinforms\obj\Debug\TelefonkonyvWinforms.csproj.GenerateResource.cache
+C:\Users\user\Downloads\TelefonkonyvWinforms\TelefonkonyvWinforms\obj\Debug\TelefonkonyvWinforms.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\TelefonkonyvWinforms\TelefonkonyvWinforms\obj\Debug\TelefonkonyvWinforms.exe
+C:\Users\user\Downloads\TelefonkonyvWinforms\TelefonkonyvWinforms\obj\Debug\TelefonkonyvWinforms.pdb
